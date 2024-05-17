@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>笃志行 Blog</title>
+        <link>https://dizhixing001.github.io/blog</link>
+        <description>笃志行 Blog</description>
+        <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[一天的低效]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/16</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/16</guid>
+            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[怎么开好一家店]]></description>
+            <content:encoded><![CDATA[<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>备注</div><div class="admonitionContent_BuS1"><p>怎么开好一家店</p></div></div>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+            <category>效率</category>
+        </item>
+        <item>
+            <title><![CDATA[一天的低效]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/15</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/15</guid>
+            <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天有一些时间，想做点什么。]]></description>
+            <content:encoded><![CDATA[<p>今天有一些时间，想做点什么。</p>
+<p>但是忙活了一天，发现好像什么也没有做。</p>
+<p>实在太低效了，怎么才能提高自己的效率呢？</p>
+<p>我有一大块时间用在了查阅信息上，主要是技术上的信息，</p>
+<p>也做了很多事，但是做这些事的目的，是为了满足自己的好奇心，做完了，了解了，就没有然后了，好像并不会帮到我什么，慢慢就放下、忘掉，这些时间也就相当于白费了。</p>
+<p>同时，做自己当下最重要的事，所用的时间很少，最终也没有完成一个最小的闭环单元。</p>
+<p>并且我发现，我真的很习惯，避重就轻。</p>
+<p>比如我今天最重要的事，是要进行一些思考，并产出一片文章和行动手册。然而，我更愿意把时间用来，优化一下blog的样式，以为做代码这些简单的事，对我来说很简单，并且我并没有想好要怎么优化，但是我就是这么做了。当然最终，也没有好好完成样式优化的任务。</p>
+<p>对于这些事，我后续的改进方案是：</p>
+<ol>
+<li>刷技术帖时，不要太深入的查看，只需要知道是做什么的就行，然后记录下来。</li>
+<li>每天早上给自己确认好，什么是今天最重要的事情，并且要做好任务拆分，尽量当天可以完成。</li>
+</ol>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>备注</div><div class="admonitionContent_BuS1"><p>【姜胡说的作品】高效学习的方法： 每天认真完成一个完整的问题。<a href="https://v.douyin.com/i2XE45Yw" target="_blank" rel="noopener noreferrer">点击查看</a></p></div></div>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+            <category>效率</category>
+        </item>
+        <item>
+            <title><![CDATA[才能和运气，哪个更重要]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/14</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/14</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[在我们的生活中，成功常常被认为是努力和才能的结果。然而，越来越多的研究表明，运气在成功中也扮演了重要角色。通过了解意大利学者亚历山德罗·普鲁奇诺（Alessandro Pluchino）和英国心理学家理查德·怀斯曼（Richard Wiseman）的研究，我们可以更清楚地认识到运气与成功的关系。]]></description>
+            <content:encoded><![CDATA[<p>在我们的生活中，成功常常被认为是努力和才能的结果。然而，越来越多的研究表明，运气在成功中也扮演了重要角色。通过了解意大利学者亚历山德罗·普鲁奇诺（Alessandro Pluchino）和英国心理学家理查德·怀斯曼（Richard Wiseman）的研究，我们可以更清楚地认识到运气与成功的关系。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="亚历山德罗普鲁奇诺的研究">亚历山德罗·普鲁奇诺的研究<a href="https://dizhixing001.github.io/blog/2024/05/14#%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E7%BD%97%E6%99%AE%E9%B2%81%E5%A5%87%E8%AF%BA%E7%9A%84%E7%A0%94%E7%A9%B6" class="hash-link" aria-label="亚历山德罗·普鲁奇诺的研究的直接链接" title="亚历山德罗·普鲁奇诺的研究的直接链接">​</a></h3>
+<p>亚历山德罗·普鲁奇诺及其团队使用数学模型研究了成功和运气的关系。他们发现，即使在才能和努力相同的情况下，运气仍然对成功有显著影响。</p>
+<p>他们创建了一个模拟社会，每个人都有不同的才能水平。在模拟中，个体会经历一系列的“幸运事件”和“不幸事件”。这些事件随机发生，影响他们的成功概率。经过多次模拟，结果显示，最成功的人通常是那些经历了最多幸运事件的人，而不是才能最高的人。</p>
+<p>这个研究的结论很简单：在很多情况下，运气可能比才能更重要。即使你非常有才能，如果没有运气的帮忙，可能也难以取得最大的成功。相反，有些人因为运气好，尽管才能平平，也能获得巨大成就。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="理查德怀斯曼的研究">理查德·怀斯曼的研究<a href="https://dizhixing001.github.io/blog/2024/05/14#%E7%90%86%E6%9F%A5%E5%BE%B7%E6%80%80%E6%96%AF%E6%9B%BC%E7%9A%84%E7%A0%94%E7%A9%B6" class="hash-link" aria-label="理查德·怀斯曼的研究的直接链接" title="理查德·怀斯曼的研究的直接链接">​</a></h3>
+<p>理查德·怀斯曼通过心理学实验，探讨了为什么有些人比其他人更幸运。他发现，幸运的人通常有一些共同特征，这些特征帮助他们抓住机会，从而更容易取得成功。</p>
+<p>怀斯曼通过大量问卷调查和实验，发现幸运的人通常保持开放心态，善于抓住机会，并且更乐观。他设计了一些有趣的实验来验证这些发现。例如，在一个实验中，他让参与者翻阅一份报纸，寻找其中的广告。幸运的人往往更快发现这些广告，因为他们更注意周围的细节和机会。</p>
+<p>怀斯曼总结了幸运的四大原则：</p>
+<ol>
+<li><strong>最大化机会</strong>：保持开放心态，积极尝试新事物。</li>
+<li><strong>倾听直觉</strong>：信任自己的直觉，快速决策。</li>
+<li><strong>持有积极期望</strong>：相信自己会有好运气。</li>
+<li><strong>应对不幸</strong>：从挫折中迅速恢复，寻找新的机会。</li>
+</ol>
+<p>这些发现告诉我们，幸运并非完全是随机的，而是可以通过特定的行为和心态来增加的。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="实践中的建议">实践中的建议<a href="https://dizhixing001.github.io/blog/2024/05/14#%E5%AE%9E%E8%B7%B5%E4%B8%AD%E7%9A%84%E5%BB%BA%E8%AE%AE" class="hash-link" aria-label="实践中的建议的直接链接" title="实践中的建议的直接链接">​</a></h3>
+<p>通过结合普鲁奇诺和怀斯曼的研究，我们可以得出一些实用的建议，帮助我们在生活中更好地利用运气，增加成功的机会：</p>
+<ol>
+<li><strong>保持开放心态</strong>：积极探索新领域，扩大社交圈子，增加遇到机会的概率。</li>
+<li><strong>信任直觉</strong>：在不确定的情况下，学会迅速做出决策。</li>
+<li><strong>乐观面对未来</strong>：保持积极的心态，相信自己能够实现目标。</li>
+<li><strong>善于应对挫折</strong>：将失败视为学习的机会，迅速调整并继续前进。</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="结论">结论<a href="https://dizhixing001.github.io/blog/2024/05/14#%E7%BB%93%E8%AE%BA" class="hash-link" aria-label="结论的直接链接" title="结论的直接链接">​</a></h3>
+<p>成功不仅仅是努力和才能的结果，运气也起到了关键作用。通过理解和利用运气，我们可以更好地把握机会，增加成功的可能性。无论是在工作还是生活中，保持开放的心态、积极的态度和灵活的应对策略，都能帮助我们更接近成功的目标。</p>
+<p>在我们追求成功的过程中，虽然我们无法控制运气，但我们可以通过改变自己的行为和心态，来最大化运气带来的积极影响。这样，我们就能更好地把握每一个机会，走向成功。</p>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+            <category>运气</category>
+        </item>
+        <item>
+            <title><![CDATA[记录美好]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/13</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/13</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[20240516114230]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://static.dohard.cn/20240516114230.png" alt="20240516114230" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://static.dohard.cn/20240516114305.png" alt="20240516114305" class="img_ev3q"></p>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>记录美好</category>
+        </item>
+        <item>
+            <title><![CDATA[第一次看脱口秀]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/12</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/12</guid>
+            <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[前段时间在抖音上刷脱口秀，看得上瘾。]]></description>
+            <content:encoded><![CDATA[<p>前段时间在抖音上刷脱口秀，看得上瘾。</p>
+<p>刚好周末，带晶晶来一起看一次线下脱口秀。没想到，还蛮有意思的。</p>
+<p>我在网上，只能买到无座票，我担心没有位置坐，还专门背了个凳子过去...果然还是我多虑了。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="玩儿丸喜剧酒馆"><a href="https://m.damai.cn/damai/detail/item.html?utm=&amp;itemId=677079627988" target="_blank" rel="noopener noreferrer">玩儿丸喜剧酒馆</a><a href="https://dizhixing001.github.io/blog/2024/05/12#%E7%8E%A9%E5%84%BF%E4%B8%B8%E5%96%9C%E5%89%A7%E9%85%92%E9%A6%86" class="hash-link" aria-label="玩儿丸喜剧酒馆的直接链接" title="玩儿丸喜剧酒馆的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" src="https://static.dohard.cn/20240513212946.png" alt="20240513212946" class="img_ev3q"></p>
+<p>这就是演出的地方，可以明确得发觉到这是一个<a href="https://dizhixing001.github.io/blog/tags/%E5%9C%BA">#场</a>。</p>
+<p>室内的灯光照在金色的椅子靠背上，金光闪闪很明亮的感觉。最里处的背景墙上有两道更亮一点的光，还有话筒和椅子，让我明确得感受到那是舞台的中心。</p>
+<p>为了可以和演员有机会互动，我们坐在了最前面。</p>
+<p><img decoding="async" loading="lazy" src="https://static.dohard.cn/20240513205759.png" alt="20240513205759" class="img_ev3q"></p>
+<p>演出开始了，主持人“山西阿强”，先登台暖场，和大家介绍了这场演出时的方式：<a href="https://dizhixing001.github.io/blog/tags/%E5%BC%80%E6%94%BE%E9%BA%A6">#开放麦</a>。</p>
+<p>“开放麦”的价格比较低，这里演出的作品还是在处于打磨中的作品，演员会根据现场观众的反馈，后续再对作品进行迭代。所以，让大家降低一些预期，可能演出效果没有那么好。</p>
+<p>我觉得这是一个挺有意思的形式，可以说是一举三得。来这里的观众90%都是第一次参加线下脱口秀，没有那么挑嘴，“开放麦”可以当作一个<a href="https://dizhixing001.github.io/blog/tags/%E8%AF%95%E7%94%A8%E8%A3%85">#试用装</a>，满足一下好奇心；对于演员来说，是一次上台锻炼和作品打磨的机会；同时场地放也可以收取一些费用。</p>
+<p>第一个上台演讲的演员叫“张杰”，讲述了他人到中年（40多），生活不如意的故事，他姥爷就是大学生，从小就有变形金刚玩，学艺术的，搞过电影，有一个上学的儿子。</p>
+<p>这经历和条件，好像比我要好，我听他在台上抱怨，不由得思考我自己的人生，越听越发现，过得更不如意的人，是我。我觉得，也算是引起了我的共鸣。</p>
+<p>但是情绪被烘托到这里，我特别想听到一个转折，一个经历了苦难和思考，最终破茧成蝶，取得成功的故事，哪怕是一个很小的进步，或者是一份坦然接受也好，我急需缓解一下当下的焦虑。</p>
+<p>可是，突然就结束了，好像是有时间限制。</p>
+<p>第二个上台的，就叫他“黄区长”吧，他是一个房产中介，调侃自己经常出入业主的家里，像是一个小偷一样，还挺有意思的。</p>
+<p>刚开始，还挺有节奏感的，把台下的观众逗得很开心。不过后来，笑点没那么密的时候，我跑神了，我开始在脑海里回顾的内容，好像都是和职业、角色相关的，我想送给他一句话：“<strong>出门在外，身份是自己给的</strong>”</p>
+<p>第三个上台的，叫耀文，好像是个专业的，他的演出是全场最欢乐的，演员肢体表达很丰富，很有节奏。我对他的表演做的关键词比较，也是最多的：“龙华 摩的 司马懿 空城计。家庭极端节俭 化妆 特斯拉 美甲 钻石 王者 圣罗兰 黑鸦片 太甜 口袋补香 茂名粤语”。</p>
+<p>他讲述的也是自己和家庭给的故事，我发觉他好像有对生活很细微的观察和思考，比如：摩的师傅的特征、和女友逛街路人的眼光。</p>
+<p>同时这个演员的<strong>关联</strong>能力很强，比如：摩的司机和空城计、高光和特斯拉logo、美甲贴钻和王者钻石，能够把两个不沾边的东西，给我了我一种<strong>打破常规</strong>的感觉。</p>
+<p>最后，再聊聊主持人小强，他输出的时长也不少，为了暖场，以及和大家互动。这个形式和付航的演出形式一样。</p>
+<p>付航说话是带着笑感的，也就是说，带着有一个“场”（因为笑会传染）。观众也会自己准备梗，拿演员的标签开玩笑，比如“大专生”、“猴子”。“猴子”的表演比较夸张，夸张的表情和肢体动作，有一种进入状态的感觉。</p>
+<p>小强多少没有放太开，估计是聊着聊着就到失业这个现在普遍的话题，有点沉重了。不过还是通过聊天，特别是对观众回复的调侃回应，给大家带来了一些欢乐，很好的活跃了气氛。</p>
+<p>《产品思维30讲》20.服务蓝图的核心要素：峰值、终值</p>
+<blockquote>
+<p>峰值和终值，是由2002诺贝尔奖得主、心理学家丹尼尔·卡尼曼提出的。他发现大家对体验的记忆由两个核心因素决定：</p>
+<p>第一个是体验最高峰的时候，无论是正向的最高峰还是负向的最高峰，一定是能记得住的。</p>
+<p>第二个是结束时的感觉。</p>
+<p>这就是峰终定律（Peak-End Rule） 。</p>
+</blockquote>
+<p>整场的演出，让我感觉很快乐，也很满意。耀文的节目让体验达到峰值，演出结束后，小强面对面拉了一个微信群，给大家发红包，我觉得是一个小惊喜。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="在互联网上要�会说话">在互、联、网上，要会说话<a href="https://dizhixing001.github.io/blog/2024/05/12#%E5%9C%A8%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%8A%E8%A6%81%E4%BC%9A%E8%AF%B4%E8%AF%9D" class="hash-link" aria-label="在互、联、网上，要会说话的直接链接" title="在互、联、网上，要会说话的直接链接">​</a></h3>
+<p>我看脱口秀，是带着问题的。</p>
+<p>之前我是一个闷头做事、目光短浅的人，是人海中的一个不起眼的小喽啰。最近半年多，我通过<a href="https://dizhixing001.github.io/blog/tags/%E5%A7%9C%E8%83%A1%E8%AF%B4">#姜胡说</a>社群，学会了阅读和理解，产生了一些对事物的思考和见解，这对于我自身的成长来说，是极好的。</p>
+<p>但同时，我开始喜欢在别人面前显摆自己的一知半解，有些是大家都知道、不说就懂的信息，有些是自己刚刚学到的肤浅内容。慢慢我意识到这一点，开始克制自己的表达欲，沉下心认真构建自己的知识体系。之后，我开口的次数少了。</p>
+<p>再后来，发现一些普适的智慧，真的自我成长有帮助，又想给别人进行分享。</p>
+<p>但是，一开口，就是“3W”、“痛痒爽”，听起来太装逼了，很难让人有耐心听下去，跟个傻逼一样。</p>
+<p>这是我的问题。</p>
+<p>我觉得可以通过脱口秀，学会怎么“说人话”，让人喜欢。</p>
+<p>《价值心法》第十五章：</p>
+<blockquote>
+<p>我们最容易犯的错误就是，只考虑自己想要干吗，而忽略了别人的喜好。</p>
+<p>换位思考很重要，甚至是最重要的。如果你说的东西人家都不愿意听，逻辑再严谨、再令人信服，也是瞎耽误工夫。</p>
+</blockquote>
+<p>用户感兴趣的的话题是什么？用户关心的问题是什么，有什么问题需要被解决，需要什么服务？</p>
+<p>接触脱口秀，学会说话，接近用户，理解用户，发现需求，提供方案，迭代优化，产品化，实现规模化。这仿佛是一个很好的起点。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="了解这一帮人">了解这一帮人<a href="https://dizhixing001.github.io/blog/2024/05/12#%E4%BA%86%E8%A7%A3%E8%BF%99%E4%B8%80%EF%BF%BD%E5%B8%AE%E4%BA%BA" class="hash-link" aria-label="了解这一帮人的直接链接" title="了解这一帮人的直接链接">​</a></h3>
+<p>在深圳工作的白领，都没有赚足够用的钱，并且认定自己不可能在深圳安家。</p>
+<p>上班的，有工作压力；离职的，有生存压力。</p>
+<p>大家已经习惯小红书查攻略、美食，代替了百度。</p>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+            <category>脱口秀</category>
+        </item>
+        <item>
+            <title><![CDATA[不要对自己设限]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/11</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/11</guid>
+            <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[花半秒钟就看透事物本质的人，和花一辈子都看不清事物本质的人，注定是截然不同的命运。--《教父》]]></description>
+            <content:encoded><![CDATA[<p>花半秒钟就看透事物本质的人，和花一辈子都看不清事物本质的人，注定是截然不同的命运。--《教父》</p>
+<p>我活了快30年，也结婚了，如果按照老一辈的思想，也要赶快生孩子了，
+但是，我始终觉得没有做好准备。
+一开始，我认为是自己没玩好，
+我出生后的那一刻，就被转移到一个隐形的槽里，我的时间，就随着这个槽流淌,
+每一个转弯就是一个重要的时刻，幼儿园、小学、初中、高中、大学，
+毕业的那一刻，仿佛终于从这个槽里流出来了，
+雄心壮志，认为自己一定会出人头地，将来会挣一大笔钱，然后好好享受美好的生活，</p>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+        </item>
+        <item>
+            <title><![CDATA[怎么服务好用户]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/10</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/10</guid>
+            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[用户是谁？]]></description>
+            <content:encoded><![CDATA[<p>用户是谁？</p>
+<p>用户不是人，用户是需求的合集</p>
+<ol>
+<li>市场可行性分析
+定位细分市场，确定这个盘子够大。
+比如服装店</li>
+<li>场景分析
+看用户在</li>
+</ol>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+        </item>
+        <item>
+            <title><![CDATA[不要对自己设限]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/09</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/09</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <author>dohard@163.com (马道)</author>
+            <category>成长</category>
+        </item>
+        <item>
+            <title><![CDATA[怎么开一家服装店？先了解用户和同行]]></title>
+            <link>https://dizhixing001.github.io/blog/2024/05/08</link>
+            <guid>https://dizhixing001.github.io/blog/2024/05/08</guid>
+            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[先了解用户，他们有哪些痛点、痒点和爽点；]]></description>
+            <content:encoded><![CDATA[<p>先了解用户，他们有哪些痛点、痒点和爽点；</p>
+<p>让后看看同行是怎么做的。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一了解用户">一、了解用户<a href="https://dizhixing001.github.io/blog/2024/05/08#%E4%B8%80%E4%BA%86%E8%A7%A3%E7%94%A8%E6%88%B7" class="hash-link" aria-label="一、了解用户的直接链接" title="一、了解用户的直接链接">​</a></h2>
+<blockquote>
+<p>方法：从抖音、小红书的相关内容的评论区进行寻找。</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="痛点">痛点<a href="https://dizhixing001.github.io/blog/2024/05/08#%E7%97%9B%E7%82%B9" class="hash-link" aria-label="痛点的直接链接" title="痛点的直接链接">​</a></h3>
+<blockquote>
+<p>痛点是恐惧</p>
+</blockquote>
+<ol>
+<li>不太敢进去试衣服</li>
+<li>有男的，不进；怕售货员跟着疯狂推销。（烦）</li>
+<li>试了不买，怕别人讨厌，同时自己也不好意思<!-- -->
+<ol>
+<li>自己有可能出于不好意思买了一件自己并不喜欢的风格，买回去又不穿</li>
+<li>不敢多试，怕试的多了，麻烦人家</li>
+</ol>
+</li>
+<li>不敢问价格，怕贵了尴尬</li>
+<li>自己不会搭配，穿出来不好看，浪费时间</li>
+<li>网购的衣服不合身，还要退货</li>
+<li>一换季，发现没衣服穿了</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="痒点">痒点<a href="https://dizhixing001.github.io/blog/2024/05/08#%E7%97%92%E7%82%B9" class="hash-link" aria-label="痒点的直接链接" title="痒点的直接链接">​</a></h3>
+<blockquote>
+<p>痒点是满足虚拟自我</p>
+</blockquote>
+<ol>
+<li>自己买了这身衣服，就可以和模特一样很漂亮</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="爽点">爽点<a href="https://dizhixing001.github.io/blog/2024/05/08#%E7%88%BD%E7%82%B9" class="hash-link" aria-label="爽点的直接链接" title="爽点的直接链接">​</a></h3>
+<blockquote>
+<p>爽点是即时满足</p>
+</blockquote>
+<ol>
+<li>直接买一套合身的衣服，不用自己再搭配</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二对标账号">二、对标账号<a href="https://dizhixing001.github.io/blog/2024/05/08#%E4%BA%8C%E5%AF%B9%E6%A0%87%E8%B4%A6%E5%8F%B7" class="hash-link" aria-label="二、对标账号的直接链接" title="二、对标账号的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="店主-vlog-类">店主 vlog 类<a href="https://dizhixing001.github.io/blog/2024/05/08#%E5%BA%97%E4%B8%BB-vlog-%E7%B1%BB" class="hash-link" aria-label="店主 vlog 类的直接链接" title="店主 vlog 类的直接链接">​</a></h3>
+<ol>
+<li><a href="https://v.douyin.com/i2yt3Fsn/" target="_blank" rel="noopener noreferrer">ZHANG PEARL-张盼儿女装</a></li>
+<li><a href="https://v.douyin.com/i2ynXbsh/" target="_blank" rel="noopener noreferrer">唐河 JM Lady 女装</a></li>
+<li><a href="https://v.douyin.com/i2yWaFss/" target="_blank" rel="noopener noreferrer">阿闪服饰</a></li>
+<li><a href="https://www.douyin.com/video/7254175607179824436" target="_blank" rel="noopener noreferrer">太和县 mimi 女装</a></li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="买家评测类">买家评测类<a href="https://dizhixing001.github.io/blog/2024/05/08#%E4%B9%B0%E5%AE%B6%E8%AF%84%E6%B5%8B%E7%B1%BB" class="hash-link" aria-label="买家评测类的直接链接" title="买家评测类的直接链接">​</a></h3>
+<ol>
+<li><a href="https://v.douyin.com/i2DoRmKL" target="_blank" rel="noopener noreferrer">佳小乖</a></li>
+<li><a href="https://www.douyin.com/note/7366506081754893587" target="_blank" rel="noopener noreferrer">暴躁的糖果</a></li>
+<li><a href="https://v.douyin.com/i2DEkCso" target="_blank" rel="noopener noreferrer">一只舒芙蕾 🍞（163）</a></li>
+</ol>]]></content:encoded>
+            <author>dohard@163.com (马道)</author>
+            <category>服装</category>
+            <category>营销</category>
+            <category>学以致用</category>
+        </item>
+    </channel>
+</rss>
